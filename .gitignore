@@ -1,0 +1,9 @@
+# Ignore datasets
+*.csv
+#Ignore datasets
+*.tsv
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
